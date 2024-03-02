@@ -139,7 +139,7 @@ nav a:hover, nav a:focus #IconMenu:hover, #IconMenu:focus{
 }
 
 #conteudo article{
-    
+    background-color: #fff;
     margin: 15px 0;
     padding: 1%;
     box-sizing: grey 1px 1px 5px;
